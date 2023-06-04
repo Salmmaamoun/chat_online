@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">chat</string>
+    <string-array name="room_category">
+        <item>Music</item>
+        <item>Sports</item>
+        <item>Movies</item>
+    </string-array>
+</resources>

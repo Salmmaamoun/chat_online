@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/chat/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.10462962962962963" />
+        <entry key="..\:/chat/app/src/main/res/drawable/ic_baseline_arrow_forward_24.xml" value="0.1824074074074074" />
+        <entry key="..\:/chat/app/src/main/res/drawable/ic_baseline_group_24.xml" value="0.12129629629629629" />
+        <entry key="..\:/chat/app/src/main/res/drawable/item_message_bg.xml" value="0.1" />
+        <entry key="..\:/chat/app/src/main/res/drawable/item_recived_message_bg.xml" value="0.2230769230769231" />
+        <entry key="..\:/chat/app/src/main/res/layout/activity_add_room.xml" value="0.15885416666666666" />
+        <entry key="..\:/chat/app/src/main/res/layout/activity_chat.xml" value="0.20364583333333333" />
+        <entry key="..\:/chat/app/src/main/res/layout/activity_home.xml" value="0.15885416666666666" />
+        <entry key="..\:/chat/app/src/main/res/layout/activity_login.xml" value="0.23550724637681159" />
+        <entry key="..\:/chat/app/src/main/res/layout/activity_reg.xml" value="0.14960629921259844" />
+        <entry key="..\:/chat/app/src/main/res/layout/activity_splash.xml" value="0.2164855072463768" />
+        <entry key="..\:/chat/app/src/main/res/layout/item_recived_message.xml" value="0.25" />
+        <entry key="..\:/chat/app/src/main/res/layout/item_room.xml" value="0.1926605504587156" />
+        <entry key="..\:/chat/app/src/main/res/layout/item_sent_message.xml" value="0.16" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
